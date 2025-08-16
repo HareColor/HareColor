@@ -41,8 +41,8 @@
 
 ## お問い合わせ・開発者情報
 
-- 開発者Twitter: [@KatsuYuzu](https://twitter.com/KatsuYuzu)
-- サービスに関するご意見・ご要望はTwitterまで
+- 開発者X: [@KatsuYuzu](https://x.com/KatsuYuzu)
+- サービスに関するご意見・ご要望はXまで
 
 ---
 
