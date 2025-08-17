@@ -5,6 +5,16 @@
 
 [https://harecolor.github.io/HareColor/](https://harecolor.github.io/HareColor/)
 
+<div align="center">
+  <h3>PC</h3>
+  <img src="./サンプル_PC.jpg" alt="PC用サンプル" width="400" style="border-radius:12px;box-shadow:0 2px 8px #0002;max-width:90%;margin-bottom:12px;" />
+  <h3>モバイル</h3>
+  <div>
+    <img src="./サンプル_1_Mobile.jpg" alt="モバイル用サンプル" width="220" style="border-radius:12px;box-shadow:0 2px 8px #0002;max-width:60%;" />
+    <img src="./サンプル_2_Mobile.jpg" alt="モバイル用サンプル" width="220" style="border-radius:12px;box-shadow:0 2px 8px #0002;max-width:60%;" />
+  </div>
+</div>
+
 ## サービス概要
 
 ハレカラは、画像に自分らしいアクセントカラーを添えて、SNSで手軽に共有できる画像加工ツールです。
