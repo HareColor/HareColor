@@ -1,6 +1,7 @@
-# ハレカラ（HareColor）利用ガイド
+# ハレカラ（HareColor）
 
-## サイトURL
+**さっと加工、パッと共有。**  
+**Splash your accent. Share your color.**
 
 [https://harecolor.github.io/HareColor/](https://harecolor.github.io/HareColor/)
 
@@ -8,8 +9,6 @@
 
 ハレカラは、画像に自分らしいアクセントカラーを添えて、SNSで手軽に共有できる画像加工ツールです。
 画像はすべてブラウザ内で処理され、サーバーに送信されません。広告やアカウント登録も不要で、安心してご利用いただけます。
-
-## 主な機能
 
 - 画像のドラッグ＆ドロップまたはファイル選択による読み込み
 - 画像から自動抽出された色やスポイトで選んだ色を指定
@@ -43,6 +42,8 @@
 
 - 開発者X: [@KatsuYuzu](https://x.com/KatsuYuzu)
 - サービスに関するご意見・ご要望はXまで
+
+※ 一部アイコンは「[ICOON MONO](https://icooon-mono.com/)」様より利用しています。
 
 ---
 
