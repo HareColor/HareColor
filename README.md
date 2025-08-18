@@ -1,4 +1,4 @@
-# ハレカラ（HareColor）
+# #ハレカラ（#HareColor）
 
 **さっと加工、パッと共有。**  
 **Splash your accent. Share your color.**
