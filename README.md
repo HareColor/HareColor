@@ -6,12 +6,12 @@
 [https://harecolor.github.io/HareColor/](https://harecolor.github.io/HareColor/)
 
 <div align="center">
-  <h3>PC</h3>
-  <img src="./サンプル_PC.jpg" alt="PC用サンプル" width="400" style="border-radius:12px;box-shadow:0 2px 8px #0002;max-width:90%;margin-bottom:12px;" />
-  <h3>モバイル</h3>
+  <img src="./sample_bridge.jpg" alt="加工例：朱色の橋と鳥居だけを残して背景を白黒に" width="520" style="border-radius:12px;box-shadow:0 2px 8px #0002;max-width:92%;margin-bottom:12px;" />
   <div>
-    <img src="./サンプル_1_Mobile.jpg" alt="モバイル用サンプル" width="220" style="border-radius:12px;box-shadow:0 2px 8px #0002;max-width:60%;" />
-    <img src="./サンプル_2_Mobile.jpg" alt="モバイル用サンプル" width="220" style="border-radius:12px;box-shadow:0 2px 8px #0002;max-width:60%;" />
+    <img src="./sample_gion.jpg" alt="加工例：赤い提灯・飾りだけを残して白黒に" width="200" style="border-radius:10px;box-shadow:0 2px 8px #0002;max-width:44%;margin:4px;" />
+    <img src="./sample_lotus.jpg" alt="加工例：ピンクの蓮の花だけを残して白黒に" width="200" style="border-radius:10px;box-shadow:0 2px 8px #0002;max-width:44%;margin:4px;" />
+    <img src="./sample_matcha.jpg" alt="加工例：抹茶の緑だけを残して白黒に" height="150" style="border-radius:10px;box-shadow:0 2px 8px #0002;max-width:44%;margin:4px;" />
+    <img src="./sample_hosta.jpg" alt="加工例：葉の緑だけを残して白黒に" width="200" style="border-radius:10px;box-shadow:0 2px 8px #0002;max-width:44%;margin:4px;" />
   </div>
 </div>
 
